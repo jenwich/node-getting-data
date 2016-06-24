@@ -1,7 +1,7 @@
 {
   "name": "getting-data",
   "version": "0.0.0",
-  "description": "Getting data tools using Node.js",
+  "description": "Get data using Node.js",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -9,6 +9,7 @@
   "author": "Jenwich Rattanayenjai",
   "license": "MIT",
   "dependencies": {
+    "download": "^5.0.2",
     "jquery": "^3.0.0",
     "jsdom": "^9.2.1"
   }
